@@ -1,6 +1,14 @@
 #include <iostream>
+#include <iomanip>
+#include <vector>
+#include "mapa.h"
+
+using namespace std;
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
+
+
+
     return 0;
 }
